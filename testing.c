@@ -17,5 +17,13 @@ int main() {
  printf("14");
  printf("15");
  printf("16");
+ printf("17");
+ printf("18");
+ printf("19");
+ printf("20");
+ printf("21");
+ printf("22");
+ printf("23");
+ printf("24");
  return 0;
 }
