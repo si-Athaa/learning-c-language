@@ -26,5 +26,9 @@ int main() {
  printf("23");
  printf("24");
  printf("25");
+ printf("26");
+ printf("27");
+ printf("28");
+ printf("29");
  return 0;
 }
