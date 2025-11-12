@@ -30,5 +30,7 @@ int main() {
  printf("27");
  printf("28");
  printf("29");
+ print(30);
+ print(31);
  return 0;
 }
