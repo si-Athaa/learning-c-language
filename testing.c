@@ -32,5 +32,9 @@ int main() {
  printf("29");
  print(30);
  print(31);
+ print(32);
+ print(33);
+ print(34);
+ print(35);
  return 0;
 }
